@@ -1,4 +1,4 @@
-### Hello, I'M PETER KIMANI👋
+### HOLA, I'M PETER KIMANI👋
 
 
 
@@ -9,5 +9,5 @@
 - 💬 Ask me about Python, React, Ruby and Tech in General
 - 📫 How to reach me: Twitter - @PeterKi44599986
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I play a lot of video games
+- ⚡ Fun fact: Football, Playing video games
 
