@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/JAJAKIM22/JAJAKIM22/blob/main/github-header-image.png)
+[![MasterHead](https://github.com/JAJAKIM22/JAJAKIM22/blob/main/github-header-image.png)]
 <h1 align="center">Holla 👋, I'm Peter Kimani</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
