@@ -3,6 +3,7 @@
 <h3 align="center">A passionate Software Engineer.</h3>
 <img align="right" alt="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jajakim22&label=Profile%20views&color=0e75b6&style=flat" alt="jajakim22" /> </p>
 
 <p align="left"> <a href="https://twitter.com/peterki44599986" target="blank"><img src="https://img.shields.io/twitter/follow/peterki44599986?logo=twitter&style=for-the-badge" alt="peterki44599986" /></a> </p>
