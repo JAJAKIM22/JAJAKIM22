@@ -1,8 +1,7 @@
-[![MasterHead](https://github.com/JAJAKIM22/JAJAKIM22/blob/main/github-header-image.png)
+![MasterHead](https://github.com/JAJAKIM22/JAJAKIM22/blob/main/github-header-image.png)
 <h1 align="center">Hola 👋, I'm Peter Kimani</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
-<img align="right" alt="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-
+<img align="right" alt="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jajakim22&label=Profile%20views&color=0e75b6&style=flat" alt="jajakim22" /> </p>
 
